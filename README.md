@@ -1,121 +1,86 @@
-# MAHENDRA SAI SALLAGUNDLA
+# Mahendra Sai Sallagundla
 
-```
-+1 (970) 689-5285|mahendrasai0901@gmail.com |Fort Collins, CO, USA|linkedin.com/in/mahendra0901/
-```
-## EDUCATION
+**Email:** mahendrasai0901@gmail.com  
+**Mobile:** +1 (970) 689-5285  
+**LinkedIn:** [mahendra0901](https://linkedin.com/in/mahendra0901)  
 
-Colorado State University August 2023 - December 2024
-Master's, Information Systems GPA: 3.
+## **Java Full Stack Developer**
+Experienced Java Full Stack Developer with 5+ years in designing and developing scalable web applications, RESTful APIs, and microservices. Expertise in both frontend and backend development using **Java, Spring Boot, React.js**, and cloud technologies. Skilled in **LLM integration**, **AI-powered solutions**, and **vector databases**.
 
-## PROFESSIONAL EXPERIENCE
+## **Professional Summary**
+- 5+ years of experience in **Java, Spring Boot, React.js** for scalable web applications.
+- Expertise in **backend development** with **Spring Boot, Hibernate, REST APIs**.
+- Strong **frontend development** skills using **React.js, TypeScript, HTML, CSS**.
+- Hands-on experience with **Microservices, Docker, Kubernetes**.
+- Proficient in **SQL, PostgreSQL, MySQL, MongoDB**.
+- Experience with **CI/CD pipelines (Jenkins, GitHub Actions, Maven)**.
+- Familiar with **AWS, Google Cloud** services.
+- **LLM integration** expertise using **LangChain, vector databases**.
+- Agile practitioner, experienced in **Scrum methodologies**.
 
-Colorado State University Fort Collins, CO, USA
-Student Software Developer September 2023 - December 2024
+## **Technical Skills**
+**Languages:** Java, JavaScript, TypeScript, Python  
+**Frontend:** React.js, HTML5, CSS3, Bootstrap  
+**Backend:** Spring Boot, Hibernate, Spring MVC, REST APIs  
+**Microservices:** Docker, Kubernetes, Spring Cloud  
+**Databases:** PostgreSQL, MySQL, MongoDB, MSSQL  
+**Cloud:** AWS (Lambda, S3, EC2), Google Cloud  
+**Version Control:** Git, GitHub, Bitbucket  
+**CI/CD & DevOps:** Jenkins, GitHub Actions, Maven, Docker  
+**Testing:** JUnit, Mockito, Postman  
+**AI & LLM Frameworks:** LangChain, Pinecone, FAISS, Weaviate  
+**Project Management:** Agile, Scrum, Jira  
 
-- Increased user engagement by 30% by implementing React and JavaScript for frontend enhancements, integrating state
-    management with Redux, optimizing the dining services website for over 10,000 weekly users.
-- Improved efficiency by 25% by developing and maintaining backend using Java and SQL with Spring MVC, ensuring seamless
-    end-to-end functionality in the dining services scheduling system.
-- Enhanced website performance and reliability by utilizing Git and Maven for continuous integration and deployment, ensuring
-    robust web services and API performance through regular updates and technical support.
-- Optimized data management processes by implementing REST API to streamline data access and manipulation, supporting
-    backend processes with Oracle and SQL databases, and improving system responsiveness.
-- Improved cloud infrastructure understanding by exploring BigQuery and GCS for potential data analytics solutions, enhancing
-    knowledge of GCP tools and cloud infrastructure.
+## **Certifications**
+- **Diploma in Core Java** - Java fundamentals and object-oriented programming.
+- **Google Project Management Certificate** - Agile methodologies and risk management.
+- **Meta Front-End Developer Professional Certificate (In Progress)** - UI/UX best practices.
 
-Infinite Computer Solutions Hyderabad, TG, India
-Software Engineer, Full-Stack Java Developer December 2022 - August 2023
+## **Professional Experience**
+### **Full Stack Developer** | *Colorado State University* | Fort Collins, CO  
+**September 2023 - December 2024**
+- Developed a **student dining management** web application using **Spring Boot, React.js**.
+- Designed **RESTful APIs**, integrated **PostgreSQL**, and implemented **JWT authentication**.
+- Deployed application on **Google Cloud (BigQuery, GCS)** and managed **CI/CD pipelines**.
+- Containerized services with **Docker, Kubernetes**.
+- Wrote **unit and integration tests** using **JUnit, Mockito**.
 
-- Enhanced backend system performance by 30% through optimization of Java code and MSSQL queries for Care and Case
-    Management Portals, ensuring compliance with HIPAA regulations.
-- Achieved 99% test coverage on Angular for the Care and Case Management Portals, ensuring robust frontend performance
-    and compliance with industry standards.
-- Facilitated easier access across internal applications by enabling Single Sign-On for 100% of payers through the integration
-    of Keycloak with LDAP and legacy systems.
-- Improved deployment speed by 40% by deploying the product to AWS EKS using Helm charts and Kubernetes, ensuring
-    scalability and efficient cloud infrastructure management.
-- Ensured scalability and compliance with HIPAA regulations by managing end-to-end deployment and integration tasks for
-    the US Health Care Product, leveraging Java, Spring, and cloud infrastructure technologies.
+### **Full Stack Developer** | *Zyter|TruCare* | Boston, MA  
+**December 2022 - August 2023**
+- Developed **care management system** for healthcare providers using **Java, Angular**.
+- Optimized **MSSQL queries**, boosting backend performance by **30%**.
+- Integrated **Keycloak & LDAP** for Single Sign-On (SSO).
+- Deployed platform on **AWS EKS using Helm & Kubernetes**.
+- Automated CI/CD with **Jenkins & GitHub Actions**.
+- Ensured **HIPAA-compliant security** policies and **RBAC**.
 
-Tata Consultancy Services Chennai, TN, India
-Software Engineer, Backend Java Developer November 2020 - December 2022
+### **Backend Java Developer** | *SkyTeam Airline Alliance* | Netherlands  
+**November 2020 - December 2022**
+- Led **legacy migration** from **Spring MVC to Spring Boot**.
+- Developed **billing services**, reducing processing time.
+- Integrated **AWS S3** for **billing reports storage**.
+- Automated CI/CD with **Bitbucket, Jenkins, Docker**.
+- Ensured **IATA protocol compliance** for airline APIs.
 
-- Improved deployment efficiency by 40% by leading the migration from SVN Tortoise to Bitbucket for continuous integration,
-    implementing a CI/CD pipeline using Jenkins and ServiceNow.
-- Reduced API response times by 30% by monitoring and fixing performance issues for existing APIs using Spring MVC and
-    PostgreSQL.
-- Enhanced system capabilities for real-time data by integrating REST and SOAP services to communicate with IATA APIs for
-    flight schedules.
-- Improved system performance and scalability by 35% by rebuilding the Lounge Access Management application using Spring
-    Boot, MongoDB, and Amazon S3.
-- Supported UK-Based Airline Alliance Group projects by employing backend Java development, SQL, and API integration for
-    the Support Project and Lounge Access Management System.
+### **Java Developer Intern** | *FinTrust Solutions* | India  
+**November 2019 - November 2020**
+- Built a **Financial Risk & Expense Management System** using **Spring Boot, PostgreSQL**.
+- Designed a **fraud detection engine**, reducing financial discrepancies by **20%**.
+- Developed a **budget planning module** for financial forecasting.
 
-Ioninks Visakhapatnam, AP, India
-Java Developer Intern November 2019 - November 2020
+## **Projects & Outside Experience**
+### **Grand Vineyard Trading Company Database Design** | *Fort Collins, CO, USA* | *February 2024 - April 2024*  
+- Designed **MySQL-based database architecture** optimizing data integrity and scalability.
 
-- Improved software efficiency by 30% by utilizing Java and Spring Boot to design RESTful APIs and optimize databases,
-    enhancing application performance and resolving complex issues in web-based applications.
-- Streamlined development process by implementing Git and Maven for continuous integration and version control, leading to
-    faster deployment cycles and reduced errors.
-- Enhanced frontend user experience by collaborating on full stack development using React, HTML, and JavaScript, improving
-    UI/UX and integrating Redux for state management.
-- Optimized backend performance by managing Oracle databases and utilizing SQL for data retrieval and optimization,
-    contributing to backend performance improvements.
+### **Business Intelligence Project – Education Data Analysis** | *Fort Collins, CO, USA* | *February 2024 - April 2024*  
+- Improved **data accuracy by 20%**, designed interactive **Power BI dashboards**.
+
+### **E-Commerce Website for Retail Store** | *Fort Collins, CO, USA* | *November 2024 - January 2025*  
+- Developed an **e-commerce platform** using **no-code tools (Bolt, Claude LLM)**.
+
+## **Education**
+**Colorado State University** | Fort Collins, CO, USA  
+**Master’s in Computer Information Systems** | *August 2023 - December 2024*  
+**GPA:** 3.76  
 
 
-- Supported scalable cloud infrastructure by assisting in deploying applications on GCP using GCS and BigQuery, ensuring
-    robust cloud infrastructure and end-to-end service delivery.
-
-## PROJECTS & OUTSIDE EXPERIENCE
-
-Grand Vineyard Trading Company Database Design Fort Collins, CO, USA
-Team Lead February 2024 - April 2024
-
-- Enhanced data integrity and reduced redundancy by normalizing the database to 3rd Normal Form using MySQL in the
-    database architecture design for Grand Vineyard Trading Company.
-- Integrated business entities into a scalable solution by implementing backend integration with MySQL for products,
-    employees, and orders in designing a comprehensive database for Grand Vineyard Trading Company.
-- Improved operational efficiency by leading a team in designing and implementing an end-to-end database architecture for
-    Grand Vineyard Trading Company.
-- Facilitated data-driven decision making by using SQL for querying and managing data across various business entities in the
-    efficient database design and implementation for Grand Vineyard Trading Company.
-- Ensured scalability and support for business needs by focusing on conceptual, logical, and physical database design with
-    MySQL in designing a robust database architecture for Grand Vineyard Trading Company.
-
-Business Intelligence Project – Education Data Analysis Fort Collins, CO, USA
-Team Member February 2024 - April 2024
-
-- Enhanced data accuracy by 20% in analyzing education trends across demographics by performing data cleaning and
-    transformation using Power Query.
-- Improved reporting efficiency by 30% by designing and implementing a data warehouse for structured data storage and
-    reporting, utilizing Power BI for interactive dashboards.
-- Increased audience engagement by 50% by delivering a seminar on education impact insights, presenting findings, data models,
-    and visualization techniques to demonstrate expertise in business intelligence.
-- Facilitated cross-functional collaboration by providing technical support and guidance in data modeling and visualization,
-    enhancing business intelligence capabilities.
-- Optimized data processing workflows in an end-to-end data analysis project by utilizing SQL for backend data queries and
-    integration with Power BI.
-
-E-Commerce Website for Retail Store Fort Collins, CO, USA
-Web Designer (Volunteer) November 2024 - January 2025
-
-- Enabled seamless product listing and online sales by designing and developing an e-commerce website for a retail store using
-    no-code tools like Bolt and Claude LLM.
-- Optimized performance and accessibility of the website by leading its deployment on Hostinger, ensuring seamless user
-    experience.
-- Enhanced the store's digital presence and streamlined the online shopping experience by creating an intuitive, user-friendly
-    interface.
-- Improved website functionality and user engagement through an end-to-end development process, implementing design and
-    functionality enhancements.
-- Facilitated easier management of online sales by providing ongoing technical support and maintenance, ensuring continuous
-    integration and smooth operation.
-
-## SKILLS
-
-Skills: Java, JavaScript, MySQL, Python, TypeScript, HTML/CSS, Bootstrap, Hibernate, React.js, AWS, Microsoft Azure, Kubernetes,
-Jenkins, MongoDB, ServiceNow, Oracle, Docker, Kali Linux, Microservices, Spring MVC, Spring Boot, Helm, AWS EKS, NoSQL,
-SQL, C#, Angular, Bitbucket, PostgreSQL, MSSQL, LDAP, Mashery API Gateway, SVN Tortoise, Docker, Containerisation, Keycloak,
-JWT, SSO, JUnit, AWS S3, CI/CD, REST APIs, SOAP, Web Services, Agile, Business Intelligence, Database Management Systems,
-Project Management, MySQL
