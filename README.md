@@ -47,7 +47,7 @@ Experienced Java Full Stack Developer with 5+ years in designing and developing 
 
 ### **Full Stack Developer** | *Zyter|TruCare* | Boston, MA  
 **December 2022 - August 2023**
-- Developed **care management system** for healthcare providers using **Java, Angular**.
+- Developed **care management system** for healthcare providers using **Java, React**.
 - Optimized **MSSQL queries**, boosting backend performance by **30%**.
 - Integrated **Keycloak & LDAP** for Single Sign-On (SSO).
 - Deployed platform on **AWS EKS using Helm & Kubernetes**.
